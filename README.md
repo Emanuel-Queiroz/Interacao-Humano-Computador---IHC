@@ -7,4 +7,4 @@
   Aliexpress é um site de compŕas online extremamente famoso por ser uma das mairoes platadformas de comércio eletrônico, contudo, ele também é conhecido pela seus problemas de qualidade, insegurança logística e golpes realizados por vendedores terceiros, assim como produtos falsificados e/ou de baixa qualidade.
 
 ## Sumário
-  [Apresentação: aliexpress] (https://github.com/kurenai-shu/Interacao-Humano-Computador---IHC/blob/main/TP1-IHC/00-Aliexpress/apresentacao-aliexpress.md)
+  [Apresentação aliexpress](https://github.com/kurenai-shu/Interacao-Humano-Computador---IHC/blob/main/TP1-IHC/00-Aliexpress/apresentacao-aliexpress.md)
