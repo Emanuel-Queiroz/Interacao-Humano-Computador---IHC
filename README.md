@@ -6,3 +6,4 @@
 
 Aliexpress é um site de compŕas online extremamente famoso por ser uma das mairoes platadformas de comércio eletrônico, contudo, ele também é conhecido pela seus problemas de qualidade, insegurança logística e golpes realizados por vendedores terceiros, assim como produtos falsificados e/ou de baixa qualidade.
 
+## Sumário
