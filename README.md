@@ -17,4 +17,5 @@
 - [Maze](TP1-IHC/01-avaliacao-usabilidade/3-maze.md)
 
 # Avaliação UX
+-[Experiência de uso](TP1-IHC/02-avaliacao-ux/esperiencia-de-uso.md)
 
