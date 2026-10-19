@@ -7,6 +7,7 @@
   Aliexpress é um site de compŕas online extremamente famoso por ser uma das mairoes platadformas de comércio eletrônico, contudo, ele também é conhecido pela seus problemas de qualidade, insegurança logística e golpes realizados por vendedores terceiros, assim como produtos falsificados e/ou de baixa qualidade.
 
 # Sumário
+
 ## Aliexpress
 - [Sobre aliexpress](https://github.com/kurenai-shu/Interacao-Humano-Computador---IHC/blob/main/TP1-IHC/00-Aliexpress/apresentacao-aliexpress.md)
 
@@ -14,3 +15,6 @@
 - [Inspeção](TP1-IHC/01-avaliacao-usabilidade/1-inspecao.md)
 - [Teste](TP1-IHC/01-avaliacao-usabilidade/2-teste.md)
 - [Maze](TP1-IHC/01-avaliacao-usabilidade/3-maze.md)
+
+# Avaliação UX
+
