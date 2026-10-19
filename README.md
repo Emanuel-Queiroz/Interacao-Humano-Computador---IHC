@@ -12,3 +12,5 @@
 
 ## Avaliação de Usabilidade
 - [Inspeção](TP1-IHC/01-avaliacao-usabilidade/1-inspecao.md)
+- [Teste](TP1-IHC/01-avaliacao-usabilidade/2-teste.md)
+- 
