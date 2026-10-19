@@ -11,4 +11,4 @@
 - [Sobre aliexpress](https://github.com/kurenai-shu/Interacao-Humano-Computador---IHC/blob/main/TP1-IHC/00-Aliexpress/apresentacao-aliexpress.md)
 
 ## Avaliação de Usabilidade
-- [Inspeção]
+- [Inspeção](TP1-IHC/01-avaliacao-usabilidade/1-inspecao.md)
